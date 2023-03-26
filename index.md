@@ -1,4 +1,15 @@
 ## Hello! I'm Tristin
 
-> <img src="IMG_0176.jpg" width="275" height="275">
+> <img src="" width="275" height="275">
 
+
+
+
+
+
+
+
+## School 
+>United Tribes Technical College
+>2nd year 
+>CIT Program
