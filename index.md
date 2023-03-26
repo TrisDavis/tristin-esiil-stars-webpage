@@ -10,6 +10,6 @@
 
 
 ## School 
--United Tribes Technical College
--2nd year 
--CIT Program
+>United Tribes Technical College<
+>2nd year<
+>CIT Program<
