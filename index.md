@@ -12,4 +12,4 @@
 
 ## Contact Info
 > - <a href="https://github.com/TrisDavis" target="_blank">**GitHub**</a>
-> - <a href="tmike.davis13@gmail.com">**Email**</a>
+> - <a href="tmike.davis13@gmail.com">**tmike.davis13@gmail.com**</a>
