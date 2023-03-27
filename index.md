@@ -9,6 +9,16 @@
 
 
 
+## About Me
+>I am 20 years old. It is my second year at United Tribes Technical College. I play for the Men's basketball team. I like to workout, play video games, listen to country music, and hnag out with my friends. 
+
+
+
+
+
+
+
+
 ## School 
 > - United Tribes Technical College
 > - 2nd year
