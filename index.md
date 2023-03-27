@@ -12,4 +12,4 @@
 
 ## Contact Info
 > - <a href="https://github.com/TrisDavis" target="_blank">**GitHub**</a>
-> - <a href="https://outlook.office.com/davis.tristin@stu.uttc.edu" target="_blank">**Email**</a>
+> - <a href="davis.tristin@stu.uttc.edu">**Email**</a>
