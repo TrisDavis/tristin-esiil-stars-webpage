@@ -1,6 +1,6 @@
 ## Hello! I'm Tristin
 
-> <img src="Tristin.jpg" width="275" height="275">
+> <img src=""C:\Users\trist\AppData\Local\Microsoft\Windows\INetCache\IE\V2XOC0D9\IMG_0176[1].JPG"" width="275" height="275">
 
 ## About Me
 >I am 20 years old. It is my second year at United Tribes Technical College. I play for the Men's basketball team. I like to workout, play video games, listen to country music, and hang out with my friends. 
